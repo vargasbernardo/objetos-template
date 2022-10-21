@@ -1,4 +1,4 @@
-# A011 - Template de Prática
+# Objetos - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
 
 ## Instruções para baixar
